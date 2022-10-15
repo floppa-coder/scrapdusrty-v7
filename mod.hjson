@@ -1,0 +1,11 @@
+name: "scrapdustry"
+displayName: "scrapdustry"
+description: "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete 
+\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.
+\n added carbonised scrap walls"
+author: "initiate"
+version: "0.0 build 2 alpha"
+minGameVersion: "139"
+hidden:false
+
+

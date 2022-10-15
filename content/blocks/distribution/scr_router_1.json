@@ -1,0 +1,14 @@
+description: "scrap enforced router. sturdier and slightly faster than the original"
+hasItems: true
+health:100 
+itemCapacity:3
+name: "scrap enforced router"
+requirements:[
+copper/3
+scrap/4
+]
+research: scrap
+
+size: 1
+speed: 7
+type: router

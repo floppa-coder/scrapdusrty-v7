@@ -1,0 +1,14 @@
+description: "refined scrap enforced conveyor. far sturdier and faster than the original"
+hasItems: true
+health: 2300 
+itemCapacity:3
+name: "refined scrap enforced router"
+requirements:[
+copper/5
+ref_scr/6
+]
+research: scr_router_1
+
+size: 1
+speed: 3
+type: router

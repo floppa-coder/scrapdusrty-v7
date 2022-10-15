@@ -1,0 +1,10 @@
+name: "small scrap wall"
+description: "wall that is made of scraps. Weaker than copper wall"
+type: Wall
+health: 250
+category: defense
+requirements: [
+scrap/6
+]
+research: mod
+size: 1

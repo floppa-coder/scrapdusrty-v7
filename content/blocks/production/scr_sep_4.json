@@ -1,0 +1,40 @@
+name: "stainless scrap enforced seperator"
+type: "Separator"
+description: "a seperator that make dissambler obsolete"
+hasLiquids: true
+hasItems: true
+health: 518
+itemCapacity: 68
+liquidCapacity: 108
+results: 
+[
+copper/1
+lead/1
+phase-fabric/3
+silicon/1
+thorium/2
+titanium/2
+]
+hasPower: true
+size: 2
+spinnerSpeed: 7
+craftTime: 7.5
+updateEffect: "smeltsmoke"
+consumes: {
+power: 1
+liquid: slag/1.30
+}
+requirements: [
+copper/30
+titanium/25
+stainless_scr/35
+thorium/126
+silicon/65
+phase-fabric/60
+surge-alloy/30
+]
+category: "crafting"
+research: scr_sep_3
+type: Separator
+size: 2
+

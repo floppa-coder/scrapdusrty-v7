@@ -1,0 +1,10 @@
+name: "extra large scrap_wall"
+description: "wall that is made of scraps. Weaker than copper wall"
+type: Wall
+health: 5000
+category: defense
+requirements: [
+scrap/120
+]
+research: w_sc_a_03
+size: 4

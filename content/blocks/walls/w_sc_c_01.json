@@ -1,0 +1,10 @@
+name: "small stainless scrap wall"
+description: "Wall that is made of stainless scraps. stronger than refined scrap wall" 
+type: Wall
+health: 1125
+category: defense
+requirements: [
+stainless_scr/6
+]
+research: stainless_scrm
+size: 1

@@ -1,0 +1,14 @@
+description: "Conveyor bridge enforced refined scraps. Far better than the original"
+hasItems:true
+health:110
+itemCapacity:28
+name: "refined scrap enforced conveyor bridge"
+range: 11
+requirements:[
+copper/6
+lead/6
+ref_scr/7
+]
+research: scr_bc_1
+size: 1
+type: itemBridge

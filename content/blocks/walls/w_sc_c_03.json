@@ -1,0 +1,10 @@
+name: "large stainless scrap wall"
+description: "Wall that is made of stainless scraps. stronger than refined scrap wall" 
+type: Wall
+health: 14400
+category: defense
+requirements: [
+stainless_scr/80
+]
+research: w_sc_c_02
+size: 3
